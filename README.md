@@ -75,7 +75,6 @@ curl -X POST http://localhost:3000/tasks \
 
 ## 6. 🔮 Melhorias Futuras
 
-- Cobertura de testes unitários e e2e com Jest.
 - Implementação de roles e permissions mais robustas no JWT.
 - Paginação e filtros avançados nos endpoints de usuários e tarefas.
 - Versionamento da API (ex: `/v1/users`). 
